@@ -1,0 +1,6 @@
+# You can define snowpark specific configuration here.
+
+account:  # ex. lf64806.eu-central-1
+user: 
+password: 
+role: 
